@@ -36,7 +36,7 @@ const routes = [
     subRoutes: [
       {
         path: "/settings/profile",
-        name: "Profile ",
+        name: "Profile",
         icon: <FaUser />,
       },
       {
